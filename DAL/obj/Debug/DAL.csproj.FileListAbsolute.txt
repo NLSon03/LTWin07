@@ -1,0 +1,12 @@
+F:\AllProject\CSharpProject\LTWin\WinFormBuoi7\DAL\bin\Debug\DAL.dll.config
+F:\AllProject\CSharpProject\LTWin\WinFormBuoi7\DAL\bin\Debug\DAL.dll
+F:\AllProject\CSharpProject\LTWin\WinFormBuoi7\DAL\bin\Debug\DAL.pdb
+F:\AllProject\CSharpProject\LTWin\WinFormBuoi7\DAL\bin\Debug\EntityFramework.dll
+F:\AllProject\CSharpProject\LTWin\WinFormBuoi7\DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\AllProject\CSharpProject\LTWin\WinFormBuoi7\DAL\bin\Debug\EntityFramework.xml
+F:\AllProject\CSharpProject\LTWin\WinFormBuoi7\DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\AllProject\CSharpProject\LTWin\WinFormBuoi7\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\AllProject\CSharpProject\LTWin\WinFormBuoi7\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\AllProject\CSharpProject\LTWin\WinFormBuoi7\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\AllProject\CSharpProject\LTWin\WinFormBuoi7\DAL\obj\Debug\DAL.dll
+F:\AllProject\CSharpProject\LTWin\WinFormBuoi7\DAL\obj\Debug\DAL.pdb
